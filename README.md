@@ -1,6 +1,7 @@
 # C2020
 Christmas Project and for the JLCPCB contest
 
+The project was made with altium
 It is a christmas tree with a holder that you can break of the pcb.
 The ic on this pcb is designed the way, that they look like they were presents under the.
 
