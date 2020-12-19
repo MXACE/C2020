@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [c2020_pcb.PcbDoc]
+   Generated File[c2020_pcb.GTO]
+   Generated File[c2020_pcb.GTP]
+   Generated File[c2020_pcb.GTS]
+   Generated File[c2020_pcb.GTL]
+   Generated File[c2020_pcb.GBL]
+   Generated File[c2020_pcb.GBS]
+   Generated File[c2020_pcb.GBP]
+   Generated File[c2020_pcb.GBO]
+   Generated File[c2020_pcb.GKO]
+   Generated File[c2020_pcb.GPT]
+   Generated File[c2020_pcb.GPB]
+   Generated File[c2020_pcb.RUL]
+   Generated File[c2020_pcb.EXTREP]
+   Generated File[c2020_pcb.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 15:18:22 On 12.12.2020

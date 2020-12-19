@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Onedrive\TBZ\OneDrive - TBZ\E_Projekte\christmas2020\pcb\c2020\c2020_pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=c2020_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=c2020_pcb-slotholes.txt|DrillLayers=gtl,gbl
