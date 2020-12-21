@@ -1,0 +1,57 @@
+Added Component: Designator=U2(RJV0046A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LP5036RJVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_3 Pin=U2-1
+Added Pin To Net: NetName=NetD1_4 Pin=U2-2
+Added Pin To Net: NetName=NetD1_2 Pin=U2-3
+Added Pin To Net: NetName=NetD2_3 Pin=U2-4
+Added Pin To Net: NetName=NetD2_4 Pin=U2-5
+Added Pin To Net: NetName=NetD2_2 Pin=U2-6
+Added Pin To Net: NetName=NetD3_3 Pin=U2-7
+Added Pin To Net: NetName=NetD3_4 Pin=U2-8
+Added Pin To Net: NetName=NetD3_2 Pin=U2-9
+Added Pin To Net: NetName=NetD4_3 Pin=U2-10
+Added Pin To Net: NetName=NetD4_4 Pin=U2-11
+Added Pin To Net: NetName=NetD4_2 Pin=U2-12
+Added Pin To Net: NetName=NetD5_3 Pin=U2-13
+Added Pin To Net: NetName=NetD5_4 Pin=U2-14
+Added Pin To Net: NetName=NetD5_2 Pin=U2-15
+Added Pin To Net: NetName=NetD6_3 Pin=U2-16
+Added Pin To Net: NetName=NetD6_4 Pin=U2-17
+Added Pin To Net: NetName=NetD6_2 Pin=U2-18
+Added Pin To Net: NetName=NetD13_3 Pin=U2-19
+Added Pin To Net: NetName=NetD13_4 Pin=U2-20
+Added Pin To Net: NetName=NetD13_2 Pin=U2-21
+Added Pin To Net: NetName=NetD12_3 Pin=U2-22
+Added Pin To Net: NetName=NetD12_4 Pin=U2-23
+Added Pin To Net: NetName=NetD12_2 Pin=U2-24
+Added Pin To Net: NetName=NetD11_3 Pin=U2-25
+Added Pin To Net: NetName=NetD11_4 Pin=U2-26
+Added Pin To Net: NetName=NetD11_2 Pin=U2-27
+Added Pin To Net: NetName=NetD10_3 Pin=U2-28
+Added Pin To Net: NetName=NetD10_4 Pin=U2-29
+Added Pin To Net: NetName=NetD10_2 Pin=U2-30
+Added Pin To Net: NetName=NetD9_3 Pin=U2-31
+Added Pin To Net: NetName=NetD9_4 Pin=U2-32
+Added Pin To Net: NetName=NetD9_2 Pin=U2-33
+Added Pin To Net: NetName=NetD8_3 Pin=U2-34
+Added Pin To Net: NetName=NetD8_4 Pin=U2-35
+Added Pin To Net: NetName=NetD8_2 Pin=U2-36
+Added Pin To Net: NetName=GND Pin=U2-37
+Added Pin To Net: NetName=GND Pin=U2-38
+Added Pin To Net: NetName=GND Pin=U2-39
+Added Pin To Net: NetName=+5 Pin=U2-40
+Added Pin To Net: NetName=NetP1_2 Pin=U2-41
+Added Pin To Net: NetName=NetP1_1 Pin=U2-42
+Added Pin To Net: NetName=NetU2_43 Pin=U2-43
+Added Pin To Net: NetName=NetR5_2 Pin=U2-44
+Added Pin To Net: NetName=NetC5_2 Pin=U2-45
+Added Pin To Net: NetName=GND Pin=U2-46
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Member To Class: ClassName=c2020_schematic Member=Component U2 LP5036RJVR
+Added Room: Name=c2020_schematic
