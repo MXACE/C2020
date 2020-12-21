@@ -1,5 +1,5 @@
 # C2020
-Christmas Project and for the JLCPCB contest
+Christmas Project and for the JLCPCB contest (https://jlcpcb.com).
 
 The project was made with altium.
 It is a christmas tree with a holder that you can break of the pcb.
